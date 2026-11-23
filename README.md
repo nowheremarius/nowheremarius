@@ -41,7 +41,7 @@ Interested in 3D modeling, audio engineering, graphic design, video editing, vox
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xvermane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&include_all_commits=true" alt="GitHub statistics" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nowheremarius&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&include_all_commits=true" alt="GitHub statistics" height="170"/>
 
 </div>
 
@@ -53,7 +53,7 @@ Interested in 3D modeling, audio engineering, graphic design, video editing, vox
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xvermane&bg_color=0d1117&color=d0d0d0&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" alt="GitHub contribution activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nowheremarius&bg_color=0d1117&color=d0d0d0&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" alt="GitHub contribution activity" width="100%"/>
 
 </div>
 
@@ -65,7 +65,7 @@ Interested in 3D modeling, audio engineering, graphic design, video editing, vox
 
 <div align="center">
 
-[Telegram](https://t.me/marius1337) &nbsp; / &nbsp; **Discord:** `@nowheremarius` &nbsp; / &nbsp; [VK](https://vk.ru/nowheremarius) &nbsp; / &nbsp; [GitHub](https://github.com/xvermane)
+[Telegram](https://t.me/marius1337) &nbsp; / &nbsp; **Discord:** `@nowheremarius` &nbsp; / &nbsp; [VK](https://vk.ru/nowheremarius) &nbsp; / &nbsp; [GitHub](https://github.com/nowheremarius)
 
 </div>
 
