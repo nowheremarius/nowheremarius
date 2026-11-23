@@ -15,7 +15,7 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 ### 02 / CURRENT FOCUS
 
-- **Game systems** — Lua scripting and vehicle simulation in BeamNG.drive.
+- **Game systems** — Lua scripting.
 - **Digital media** — 3D modeling, sound design, and video editing.
 - **Automation** — utility scripts, integrations, and LLM tools.
 
