@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title description">
+  <title id="title">Software I Use — Monochrome Editorial Monograms</title>
+  <desc id="description">Blender, Cinema 4D, Adobe Substance 3D Painter, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom Classic, Adobe Audition, OBS Studio, Sony VEGAS, Visual Studio Code, MagicaVoxel, FL Studio</desc>
+  <rect width="960" height="260" fill="#0D1117"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+  <g role="img" aria-label="Blender">
+    <title>Blender</title>
+    <rect x="46" y="6" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="80" y="41" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">Bl</text>
+    <text x="80" y="101" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">Blender</text>
+  </g>
+  <g role="img" aria-label="Cinema 4D">
+    <title>Cinema 4D</title>
+    <rect x="206" y="6" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="240" y="41" dominant-baseline="central" text-anchor="middle" font-size="25" font-weight="700" fill="#F3F3F3">C4D</text>
+    <text x="240" y="101" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">Cinema 4D</text>
+  </g>
+  <g role="img" aria-label="Adobe Substance 3D Painter">
+    <title>Adobe Substance 3D Painter</title>
+    <rect x="366" y="6" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="400" y="41" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">Pt</text>
+    <text x="400" y="95" text-anchor="middle" font-size="18" font-weight="500" fill="#D1D1D1">Substance</text>
+<text x="400" y="118" text-anchor="middle" font-size="18" font-weight="500" fill="#D1D1D1">Painter</text>
+  </g>
+  <g role="img" aria-label="Adobe Photoshop">
+    <title>Adobe Photoshop</title>
+    <rect x="526" y="6" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="560" y="41" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">Ps</text>
+    <text x="560" y="101" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">Photoshop</text>
+  </g>
+  <g role="img" aria-label="Adobe Illustrator">
+    <title>Adobe Illustrator</title>
+    <rect x="686" y="6" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="720" y="41" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">Ai</text>
+    <text x="720" y="101" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">Illustrator</text>
+  </g>
+  <g role="img" aria-label="Adobe Lightroom Classic">
+    <title>Adobe Lightroom Classic</title>
+    <rect x="846" y="6" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="880" y="41" dominant-baseline="central" text-anchor="middle" font-size="25" font-weight="700" fill="#F3F3F3">LrC</text>
+    <text x="880" y="95" text-anchor="middle" font-size="18" font-weight="500" fill="#D1D1D1">Lightroom</text>
+<text x="880" y="118" text-anchor="middle" font-size="18" font-weight="500" fill="#D1D1D1">Classic</text>
+  </g>
+  <g role="img" aria-label="Adobe Audition">
+    <title>Adobe Audition</title>
+    <rect x="46" y="138" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="80" y="173" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">Au</text>
+    <text x="80" y="233" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">Audition</text>
+  </g>
+  <g role="img" aria-label="OBS Studio">
+    <title>OBS Studio</title>
+    <rect x="206" y="138" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="240" y="173" dominant-baseline="central" text-anchor="middle" font-size="25" font-weight="700" fill="#F3F3F3">OBS</text>
+    <text x="240" y="233" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">OBS Studio</text>
+  </g>
+  <g role="img" aria-label="Sony VEGAS">
+    <title>Sony VEGAS</title>
+    <rect x="366" y="138" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="400" y="173" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">V</text>
+    <text x="400" y="233" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">VEGAS</text>
+  </g>
+  <g role="img" aria-label="Visual Studio Code">
+    <title>Visual Studio Code</title>
+    <rect x="526" y="138" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="560" y="173" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">VS</text>
+    <text x="560" y="233" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">VS Code</text>
+  </g>
+  <g role="img" aria-label="MagicaVoxel">
+    <title>MagicaVoxel</title>
+    <rect x="686" y="138" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="720" y="173" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">MV</text>
+    <text x="720" y="233" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">MagicaVoxel</text>
+  </g>
+  <g role="img" aria-label="FL Studio">
+    <title>FL Studio</title>
+    <rect x="846" y="138" width="68" height="68" rx="9" fill="#191D23" stroke="#646A72" stroke-width="1.3"/>
+    <text x="880" y="173" dominant-baseline="central" text-anchor="middle" font-size="32" font-weight="700" fill="#F3F3F3">FL</text>
+    <text x="880" y="233" text-anchor="middle" font-size="19" font-weight="500" fill="#D1D1D1">FL Studio</text>
+  </g>
+  </g>
+</svg>
