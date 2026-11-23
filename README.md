@@ -29,9 +29,7 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 <div align="center">
 
-<img src="assets/software-row-1.png" width="100%" alt="Blender, Adobe Audition, Adobe Photoshop, VEGAS Pro — monochrome software marks"/>
-
-<img src="assets/software-row-2.png" width="100%" alt="FL Studio, MagicaVoxel, Source Filmmaker — monochrome software marks"/>
+<img src="assets/software-monograms.svg" width="496" alt="Blender, Cinema 4D, Adobe Substance 3D Painter, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom Classic, Adobe Audition, OBS Studio, Sony VEGAS, Visual Studio Code, MagicaVoxel, FL Studio"/>
 
 </div>
 
