@@ -28,17 +28,11 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 ### 03 / SOFTWARE
 
 <div align="center">
-<table>
-<tr>
-<td align="center" valign="middle"><img src="assets/blender.svg" width="47" height="47" alt="Blender logo"/><br/><sub>Blender</sub></td>
-<td align="center" valign="middle"><img src="assets/audition.svg" width="47" height="47" alt="Adobe Audition logo"/><br/><sub>Adobe Audition</sub></td>
-<td align="center" valign="middle"><img src="assets/photoshop.svg" width="47" height="47" alt="Adobe Photoshop logo"/><br/><sub>Adobe Photoshop</sub></td>
-<td align="center" valign="middle"><img src="assets/vegas.svg" width="47" height="47" alt="VEGAS Pro logo"/><br/><sub>VEGAS Pro</sub></td>
-<td align="center" valign="middle"><img src="assets/flstudio-mark.png" width="47" height="47" alt="FL Studio logo"/><br/><sub>FL Studio</sub></td>
-<td align="center" valign="middle"><img src="assets/magicavoxel-mark.png" width="47" height="47" alt="MagicaVoxel logo"/><br/><sub>MagicaVoxel</sub></td>
-<td align="center" valign="middle"><img src="assets/sfm-mark.png" width="47" height="47" alt="Source Filmmaker logo"/><br/><sub>Source Filmmaker</sub></td>
-</tr>
-</table>
+
+<img src="assets/software-row-1.png" width="100%" alt="Blender, Adobe Audition, Adobe Photoshop, VEGAS Pro — monochrome software marks"/>
+
+<img src="assets/software-row-2.png" width="100%" alt="FL Studio, MagicaVoxel, Source Filmmaker — monochrome software marks"/>
+
 </div>
 
 ---
@@ -67,11 +61,13 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 ### 06 / CONTACT
 
-<div align="center">
+<p align="center">
+  <a href="https://t.me/marius1337" title="Telegram · @marius1337"><img src="assets/contact-telegram.svg" height="40" alt="Telegram"/></a>&nbsp;&nbsp;
+  <img src="assets/contact-discord.svg" height="40" alt="Discord · @nowheremarius"/>&nbsp;&nbsp;
+  <a href="https://vk.ru/nowheremarius" title="VK · nowheremarius"><img src="assets/contact-vk.svg" height="40" alt="VK"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/nowheremarius" title="GitHub · nowheremarius"><img src="assets/contact-github.svg" height="40" alt="GitHub"/></a>
+</p>
 
-<a href="https://t.me/marius1337"><img src="assets/social-telegram.svg" height="20" width="20" alt="Telegram"/></a>&nbsp;&nbsp; <a href="https://t.me/marius1337">Telegram</a> &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; <img src="assets/social-discord.svg" height="20" width="20" alt="Discord"/>&nbsp;&nbsp; Discord: `@nowheremarius` &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; <a href="https://vk.ru/nowheremarius"><img src="assets/social-vk.svg" height="20" width="20" alt="VK"/></a>&nbsp;&nbsp; <a href="https://vk.ru/nowheremarius">VK</a> &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; <a href="https://github.com/nowheremarius"><img src="assets/social-github.svg" height="20" width="20" alt="GitHub"/></a>&nbsp;&nbsp; <a href="https://github.com/nowheremarius">GitHub</a>
-
-</div>
 ---
 
 <div align="center">
