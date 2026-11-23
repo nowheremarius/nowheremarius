@@ -29,7 +29,18 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 <div align="center">
 
-<img src="assets/software-monograms-small-labels.svg" width="960" alt="Software I use: Blender, Cinema 4D, Adobe Substance 3D Painter, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom Classic, Adobe Audition, OBS Studio, Sony VEGAS, Visual Studio Code, MagicaVoxel, FL Studio — compact letter tiles with readable labels"/>
+<img src="assets/software/01-blender.svg" width="204" height="68" alt="Blender"/>
+<img src="assets/software/02-cinema-4d.svg" width="204" height="68" alt="Cinema 4D"/>
+<img src="assets/software/03-substance-3d-painter.svg" width="204" height="68" alt="Adobe Substance 3D Painter"/>
+<img src="assets/software/04-photoshop.svg" width="204" height="68" alt="Adobe Photoshop"/>
+<img src="assets/software/05-illustrator.svg" width="204" height="68" alt="Adobe Illustrator"/>
+<img src="assets/software/06-lightroom-classic.svg" width="204" height="68" alt="Adobe Lightroom Classic"/>
+<img src="assets/software/07-audition.svg" width="204" height="68" alt="Adobe Audition"/>
+<img src="assets/software/08-obs-studio.svg" width="204" height="68" alt="OBS Studio"/>
+<img src="assets/software/09-vegas.svg" width="204" height="68" alt="Sony VEGAS"/>
+<img src="assets/software/10-visual-studio-code.svg" width="204" height="68" alt="Visual Studio Code"/>
+<img src="assets/software/11-magicavoxel.svg" width="204" height="68" alt="MagicaVoxel"/>
+<img src="assets/software/12-fl-studio.svg" width="204" height="68" alt="FL Studio"/>
 
 </div>
 
