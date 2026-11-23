@@ -1,6 +1,6 @@
 <div align="center">
 
-# X V E R M A N E
+# M A R I U S 1 3 3 7
 
 **Software, automation & game systems.**
 
@@ -41,7 +41,7 @@ Interested in 3D modeling, audio engineering, graphic design, video editing, vox
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xvermane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&include_all_commits=true" alt="GitHub statistics for xvermane" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xvermane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&include_all_commits=true" alt="GitHub statistics" height="170"/>
 
 </div>
 
@@ -53,7 +53,7 @@ Interested in 3D modeling, audio engineering, graphic design, video editing, vox
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xvermane&bg_color=0d1117&color=d0d0d0&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" alt="GitHub contribution activity for xvermane" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xvermane&bg_color=0d1117&color=d0d0d0&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" alt="GitHub contribution activity" width="100%"/>
 
 </div>
 
@@ -71,4 +71,4 @@ Interested in 3D modeling, audio engineering, graphic design, video editing, vox
 
 ---
 
-<div align="center"><sub>XVERMANE &nbsp; / &nbsp; DIGITAL WORKSPACE</sub></div>
+<div align="center"><sub>MARIUS1337 &nbsp; / &nbsp; DIGITAL WORKSPACE</sub></div>
