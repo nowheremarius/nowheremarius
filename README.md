@@ -29,7 +29,7 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 <div align="center">
 
-<img src="assets/software-monograms-labeled.svg" width="960" alt="Software I use: Blender, Cinema 4D, Adobe Substance 3D Painter, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom Classic, Adobe Audition, OBS Studio, Sony VEGAS, Visual Studio Code, MagicaVoxel, FL Studio — compact letter tiles with readable labels"/>
+<img src="assets/software-monograms-small-labels.svg" width="960" alt="Software I use: Blender, Cinema 4D, Adobe Substance 3D Painter, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom Classic, Adobe Audition, OBS Studio, Sony VEGAS, Visual Studio Code, MagicaVoxel, FL Studio — compact letter tiles with readable labels"/>
 
 </div>
 
