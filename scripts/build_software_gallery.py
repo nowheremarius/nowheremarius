@@ -145,7 +145,28 @@ def draw_line(image, entries, positions, dst):
     image.convert("RGB").save(dst, optimize=True)
     print("Saved",dst,image.size,Path(dst).stat().st_size)
 
-marks = [svg_mark(s) for s in SVG_SOURCES]
+def vegas_icon():
+    # App icon instead of the extremely wide VEGAS wordmark (optically too small).
+    try:
+        url = "https://commons.wikimedia.org/wiki/Special:FilePath/Vegas_Pro_21_logo.svg"
+        im = remote_image(url)
+        im = fit(im, 128)
+        print("VEGAS icon source:", url)
+        if im.size[0] > 0:
+            pix = im.load()
+            for y in range(im.height):
+                for x in range(im.width):
+                    r,g,b,a = pix[x,y]
+                    # VEGAS brand-blue square -> charcoal; white V -> white.
+                    if a < 10: continue
+                    blue = b > r*1.2 and b > g*.9 and r < 160
+                    pix[x,y] = (68,68,68,a) if blue else (246,246,246,a)
+        return im
+    except Exception as e:
+        print("VEGAS icon source unavailable, use wordmark:",type(e).__name__,str(e)[:100])
+        return svg_mark("vegas")
+
+marks = [svg_mark(s) for s in SVG_SOURCES[:3]] + [vegas_icon()]
 marks.extend([fruit_mark(), voxel_mark(), sfm_mark()])
 assert len(marks) == 7
 for n,m in zip(HEADERS, marks):
