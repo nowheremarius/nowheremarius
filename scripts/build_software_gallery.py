@@ -16,13 +16,13 @@ ROOT = Path("assets")
 BG = (13, 17, 23, 255)
 FG = (244, 244, 244, 255)
 MUTED = (194, 194, 194, 255)
-W, H = 1360, 270
+W, H = 1360, 185
 HEADERS = ["Blender", "Adobe Audition", "Adobe Photoshop", "VEGAS Pro",
            "FL Studio", "MagicaVoxel", "Source Filmmaker"]
 SVG_SOURCES = ["blender", "audition", "photoshop", "vegas"]
 FONT_PATH = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-FONT = ImageFont.truetype(FONT_PATH, 28)
-FONT_SMALL = ImageFont.truetype(FONT_PATH, 25)
+FONT = ImageFont.truetype(FONT_PATH, 32)
+FONT_SMALL = ImageFont.truetype(FONT_PATH, 29)
 
 def crop_alpha(im):
     im = im.convert("RGBA")
@@ -134,14 +134,16 @@ def sfm_mark():
         return reel_fallback()
 
 def draw_line(image, entries, positions, dst):
+    # Editorial scale: compact 80px marks with full-size captions.
+    # Preserve 1360px artwork width for consistent responsive GitHub rendering.
     d = ImageDraw.Draw(image)
     for (label, icon), x in zip(entries, positions):
-        icon = fit(icon, 126)
-        y = 32 + (126 - icon.height)//2
+        icon = fit(icon, 80)
+        y = 16 + (80 - icon.height)//2
         image.alpha_composite(icon, (round(x - icon.width/2), y))
         font = FONT_SMALL if len(label) > 14 else FONT
         b = d.textbbox((0,0), label, font=font)
-        d.text((x - (b[2]-b[0])/2, 205), label, font=font, fill=MUTED)
+        d.text((x - (b[2]-b[0])/2, 126), label, font=font, fill=MUTED)
     image.convert("RGB").save(dst, optimize=True)
     print("Saved",dst,image.size,Path(dst).stat().st_size)
 
