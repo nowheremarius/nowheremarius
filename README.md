@@ -2,12 +2,6 @@
 
 <img src="assets/monolith-banner.jpg" width="100%" alt="Monochrome editorial portrait banner"/>
 
-<sub>INDEPENDENT DIGITAL WORKSPACE · VOL. 01</sub>
-
-# M A R I U S 1 3 3 7
-
-**Software, automation & game systems.**
-
 </div>
 
 ---
@@ -31,19 +25,7 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 ---
 
-### 03 / CREATIVE WORKFLOW
-
-<div align="center">
-
-<sub>01 &nbsp; / &nbsp; MODEL &emsp;&emsp; — &emsp;&emsp; 02 &nbsp; / &nbsp; DESIGN &emsp;&emsp; — &emsp;&emsp; 03 &nbsp; / &nbsp; PRODUCE &emsp;&emsp; — &emsp;&emsp; 04 &nbsp; / &nbsp; REFINE</sub>
-
-*From initial concept to finished digital assets and systems.*
-
-</div>
-
----
-
-### 04 / SOFTWARE
+### 03 / SOFTWARE
 
 <div align="center">
 <table>
@@ -61,7 +43,7 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 ---
 
-### 05 / GITHUB STATISTICS
+### 04 / GITHUB STATISTICS
 
 <div align="center">
 
@@ -71,7 +53,7 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 ---
 
-### 06 / ACTIVITY
+### 05 / ACTIVITY
 
 <div align="center">
 
@@ -83,19 +65,13 @@ Working across 3D modeling, sound design, visual media, and experimental tools.
 
 ---
 
-### 07 / CONTACT
+### 06 / CONTACT
 
 <div align="center">
-<table>
-<tr>
-<td align="center"><a href="https://t.me/marius1337"><img src="assets/social-telegram.svg" width="24" height="24" alt="Telegram"/></a><br/><sub><a href="https://t.me/marius1337">Telegram</a></sub></td>
-<td align="center"><a href="https://discord.com/app"><img src="assets/social-discord.svg" width="24" height="24" alt="Discord"/></a><br/><sub>Discord · @nowheremarius</sub></td>
-<td align="center"><a href="https://vk.ru/nowheremarius"><img src="assets/social-vk.svg" width="24" height="24" alt="VK"/></a><br/><sub><a href="https://vk.ru/nowheremarius">VK</a></sub></td>
-<td align="center"><a href="https://github.com/nowheremarius"><img src="assets/social-github.svg" width="24" height="24" alt="GitHub"/></a><br/><sub><a href="https://github.com/nowheremarius">GitHub</a></sub></td>
-</tr>
-</table>
-</div>
 
+<a href="https://t.me/marius1337"><img src="assets/social-telegram.svg" height="20" width="20" alt="Telegram"/></a>&nbsp;&nbsp; <a href="https://t.me/marius1337">Telegram</a> &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; <img src="assets/social-discord.svg" height="20" width="20" alt="Discord"/>&nbsp;&nbsp; Discord: `@nowheremarius` &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; <a href="https://vk.ru/nowheremarius"><img src="assets/social-vk.svg" height="20" width="20" alt="VK"/></a>&nbsp;&nbsp; <a href="https://vk.ru/nowheremarius">VK</a> &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; <a href="https://github.com/nowheremarius"><img src="assets/social-github.svg" height="20" width="20" alt="GitHub"/></a>&nbsp;&nbsp; <a href="https://github.com/nowheremarius">GitHub</a>
+
+</div>
 ---
 
 <div align="center">
