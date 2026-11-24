@@ -8,16 +8,16 @@
 
 ### 01 / ABOUT
 
-Independent creator focused on software, automation, game systems, and digital production.  
-Working across 3D modeling, sound design, visual media, and experimental tools.
+I make game mods, small software tools, and 3D and audio projects.  
+My work ranges from Lua scripting to modeling, texturing, sound design, and video editing.
 
 ---
 
 ### 02 / CURRENT FOCUS
 
-- **Game systems** — Lua scripting.
-- **Digital media** — 3D modeling, sound design, and video editing.
-- **Automation** — utility scripts, integrations, and LLM tools.
+- **Game modding:** Lua scripts and gameplay systems for Teardown and BeamNG.drive.
+- **3D and media:** Models, textures, music, sound, and video.
+- **Software:** Small utilities, automation, and MCP integrations.
 
 ---
 
