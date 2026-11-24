@@ -8,16 +8,16 @@
 
 ### 01 / ABOUT
 
-I make game mods, small software tools, and 3D and audio projects.  
+Developer of game mods, small software tools, and 3D and audio projects.  
 My work ranges from Lua scripting to modeling, texturing, sound design, and video editing.
 
 ---
 
 ### 02 / CURRENT FOCUS
 
-- **Game modding:** Lua scripts and gameplay systems for Teardown and BeamNG.drive.
+- **Game modding:** Lua scripts and gameplay systems.
 - **3D and media:** Models, textures, music, sound, and video.
-- **Software:** Small utilities, automation, and MCP integrations.
+- **Software:** Small utilities, automations.
 
 ---
 
