@@ -1,8 +1,8 @@
-"""Build locally hosted monochrome icon assets from recognizable application marks."""
+"""Create monochrome PNG versions of application icons."""
 from io import BytesIO
 from pathlib import Path
 import requests
-from PIL import Image, ImageOps, ImageFilter
+from PIL import Image, ImageOps
 
 ROOT = Path("assets")
 ROOT.mkdir(exist_ok=True)
@@ -30,12 +30,10 @@ def fetch_icon(url):
     return Image.open(BytesIO(raw)).convert("RGBA")
 
 def monochrome_icon(source):
-    # Convert vendor source marks to clean grayscale within a fixed editorial tile.
     source.thumbnail((112, 112), Image.Resampling.LANCZOS)
     alpha = source.getchannel("A")
-    # Preserve icon geometry by using the actual graphic's alpha, not initials.
     gray = ImageOps.grayscale(source)
-    # If the source is fully opaque, use luminance contrast so no giant solid rectangle appears.
+    # Opaque images use the corner colour to estimate a foreground mask.
     if alpha.getextrema()[0] == 255:
         extrema = gray.getextrema()
         if extrema[1] - extrema[0] > 15:
